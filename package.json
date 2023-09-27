@@ -6,7 +6,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node backend/server.js",
-    "server": "nodemon backend/server.js"
+    "server": "nodemon backend/server.js",
+    "client": "npm run dev --prefix frontend",
+    "comment1": "see above, command npm run client to run frontend only",
+    "dev": "concurrently \"npm run server\" \" npm run client\"",
+    "comment2": "see above, npm run dev will run both backend and frontend"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +26,7 @@
     "mongoose": "^7.5.2"
   },
   "devDependencies": {
+    "concurrently": "^8.2.1",
     "nodemon": "^3.0.1"
   }
 }
