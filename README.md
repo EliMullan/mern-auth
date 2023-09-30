@@ -11,38 +11,38 @@ This project was created by following the MERN Crash Course by Traversy Media. A
 - [Blog Post - Part 2 (Frontend)](https://www.traversymedia.com/blog/mern-frontend)
 
 
-Steps from my personal notes , backed up by my commits : 
+Steps from my personal notes , backed by my commits : 
 1. SETUP
 ## BACKEND
-1. "BACKEND
+1. BACKEND
     - basic setup
-1. "BACKEND
+1. BACKEND
     - basic routes
-1. "POSTMAN
+1. POSTMAN
     - setup environment
-1. "BACKEND
+1. BACKEND
     - async handler setup
-1. "ERROR HANDLING
+1. ERROR HANDLING
     - setup custom err handler
-1. "ROUTES
+1. ROUTES
     - setup rest of routes
-1. "DATABASE
+1. DATABASE
     - setup
-1. "DATABASE
+1. DATABASE
     - create basic data model
-1. "BACKEND
+1. BACKEND
     - build register user route
-1. "WEB TOKEN
+1. WEB TOKEN
     - Generate JWT & Save Cookie
-1. "BACKEND
+1. BACKEND
     - build login route
-1. "BACKEND
+1. BACKEND
     - build logout route
-1. "BACKEND
+1. BACKEND
     - Auth Protect Middleware
-1. "BACKEND
+1. BACKEND
     - build get user details route
-1. "BACKEND
+1. BACKEND
     - build update user route
 ## FRONTEND
 1. FRONTEND
