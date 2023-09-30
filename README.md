@@ -62,7 +62,7 @@ Steps from my personal notes , backed by my commits :
 1. FRONTEND
     - Redux Toolkit Setup
 1. FRONTEND
-    -Auth Slice
+    - Auth Slice
 1. FRONTEND
     - API slices
 1. FRONTEND
