@@ -1,6 +1,6 @@
 ## Follow along tutorial for [mern-auth](https://www.youtube.com/watch?v=R4AhvYORZRY&t=202s) 
 
-In this project, I have created a MERN stack app with a React SPA frontend. The main focus is authentication, but it also includd creating a full-featured API, managing state with Redux Toolkit, and more.
+In this project, I have created a MERN stack app with a React SPA frontend. The main focus is authentication, but it also includes creating a full-featured API, managing state with Redux Toolkit, and more.
 
 Steps from my personal notes , backed up by my commits : 
 1. SETUP
