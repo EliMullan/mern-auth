@@ -35,12 +35,13 @@ Steps from my personal notes , backed up by my commits :
     - build get user details route"
 1. "BACKEND
     - build update user route"
+## FRONTEND
 1. "FRONTEND
     - basic setup"
 1. "FRONTEND
     - setup bootrap and icons"
-## FRONTEND
-1. COMPONENTS
+1. FRONTEND
+    - COMPONENTS
     -header component"
 1. "FRONTEND
     -HomeScreen & Hero
